@@ -1,5 +1,8 @@
 # MINI-CHAT-APP
 
+#Frontend Repo
+https://github.com/tanapatguy120845-cell/frontend
+
 โปรเจคตัวอย่าง "Mini Chat App" — แอปแชทเล็ก ๆ ที่ใช้ Next.js (frontend) เป็น UI และ Express + MongoDB (backend) ในการเก็บประวัติข้อความ และเรียกใช้โมเดล AI (ผ่าน Ollama) เพื่อให้ตอบกลับ
 
 ## สรุปสั้น ๆ
